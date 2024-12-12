@@ -1,3 +1,3 @@
 # student-demo
 student details.<br>
-name : malviya prince
+name : malviya (prince)
